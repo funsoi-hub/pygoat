@@ -83,7 +83,7 @@ I also limited input to 100 characters and exponents to 100, so something like `
 | Check | Before | After |
 |---|---|---|
 | Lab 1 proof of concept | Runs my command | Rejected: "Enter a valid domain name" |
-| Lab 2 proof of concept | Runs my code | Rejected: "Only numbers and … are allowed" |
+| Lab 2 proof of concept | Runs my code | Rejected: "Only numbers and ... are allowed" |
 | Regression tests (38) | **38 fail** | **38 pass** |
 | Bandit findings (high / medium / low) | 2 / 2 / 2 | 0 / 0 / 0 |
 | Known vulnerable dependencies | 7 | 0 |
